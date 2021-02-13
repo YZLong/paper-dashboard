@@ -8,7 +8,7 @@ designed for Vue js. The dashboard includes vue-router
 
 ##This is the first edition of paper dashboard on creative vie, base on bootstrape3.
 
-##fork from
+###fork from
 
 [renanreboredo/paper-dashboard-pro-master](https://github.com/renanreboredo/paper-dashboard-pro-master)
 
@@ -26,6 +26,18 @@ and also change the version of node & npm in package.json file.
 after those operation, the basic function of dashboard shall available.
 
 -------------------------
+
+##This is the first edition of paper dashboard on creative vie, base on bootstrape3.
+##fork from renanreboredo/paper-dashboard-pro-master(https://github.com/renanreboredo/paper-dashboard-pro-master)
+
+##Change
+The google map api has added, casue it was an very old version, a lot of packages are out of date, lead to some function do not work very well,
+so in the terminal:
+npm install --save fullcalendar@3.4.0
+npm install --save jvectormap-next@3.0.0
+and also change the version of node & npm in package.json file.
+after those operation, the basic function of dashboard shall available.
+
 
 Check the [Live Demo here](https://cristijora.github.io/paper-dashboard-pro/#/admin/overview).
 
